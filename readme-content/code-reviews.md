@@ -8,5 +8,31 @@
 * [The link between the tree topics](/readme-content/topics-link.md)
 * [Our project retrospective](/readme-content/project-retrospective.md)
 
+<br>
+Code reviews are essential for the good development of a Softare products. In this section, we will go through the best habits to make a good code review, using <b>pull requests</b>.<br> <br>
 
-To do...
+
+## What is a pull request? <br>
+
+### Git context 
+
+When developping in a team, people save their code in a common code history system: <b>git</b>.<br>
+On this git, developers create different <b>branches</b>. A branch is a copy of an original code version, on which you develop on a specifical feature/fix. <br>
+Once done, the branch is <b>merged</b> back to the original one, to add the work to to original version of code.<br>
+It enables developers to work on the same files without corrupting them, by merging works one by one.<br><br>
+
+### Pull request definition
+
+Paraphrasing Nelis (2017), a pull request is <b>"a mechanism for a developer to notify team members that a feature or fix, developed on a separate branch, is ready".</b><br>
+When a pull request is created by one developer, other developers are assigned to look at the work, give comments, and refuse or validate it.<br>
+A pull request has a name and a description of the tasks done.<br>
+
+<img src="./pictures/code-reviews/pull-request-definition/pull-request-screenshot.png"><br>
+
+If the pull request is refused, the developer at the origin of the pull request has to fix the indicated problems.<br>
+If validated, the branch is merged to the original one.<br><br>
+
+## References
+
+- Article by Nelis, 04 October 2017, "Why and how do we use pull request?"
+    - https://co-learning.eu/2017/10/04/why-and-how-do-we-use-pull-request/#:~:text=A%20pull%20requests%20is%20a,implementation%20of%20the%20proposed%20feature
