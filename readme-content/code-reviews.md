@@ -32,7 +32,7 @@ Let's see how to make code reviews more efficient
     * Performance
     * Test coverage
     * Design
-    * Readability (and maintainability)
+    * Readability
     * Functionality
 
 ### Best practice for a good review
