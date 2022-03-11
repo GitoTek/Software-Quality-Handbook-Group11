@@ -6,7 +6,7 @@
 * [Coding standards](/readme-content/coding-standards.md)
 * [Code reviews](/readme-content/code-reviews.md)
     * [Pull request](#pull-request)
-        * [ow to make a good PR](#how-to-make-a-good-pr)
+        * [How to make a good PR](#how-to-make-a-good-pr)
 * [The link between the tree topics](/readme-content/topics-link.md)
 * [Our project retrospective](/readme-content/project-retrospective.md)
 
