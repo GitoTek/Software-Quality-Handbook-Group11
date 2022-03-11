@@ -13,8 +13,8 @@
 
 ## Pull request
 
-Every merge to develop MUST go through a PR
-A lead dev or an architect will review your code and make some comment to it.
+Every merge to develop MUST go through a PR <br>
+A lead dev or an architect will review your code and make some comment to it. <br>
 The purpose of it is to keep the code quality as good as possible.
 
 ### How to make a good PR
