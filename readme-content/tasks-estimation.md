@@ -3,11 +3,37 @@
 ## Table of content
 * [Home](/README.md)
 * [Tasks estimation in SCRUM](/readme-content/tasks-estimation.md)
+    * [How to use those estimations](#how-to-use-those-estimations)
+        * [What is the velocity](#what-is-the-velocity)
+        * [Representation of this estimate](#representation-of-this-estimate)
 * [Coding standards](/readme-content/coding-standards.md)
 * [Code reviews](/readme-content/code-reviews.md)
 * [The link between the tree topics](/readme-content/topics-link.md)
 * [Our project retrospective](/readme-content/project-retrospective.md)
 
+
+## How to use those estimations
+
+Estimations are key metrics to have data related to the team's performance in a sprint.
+And the example we will talk about is the velocity.
+
+### What is the velocity
+
+Velocity represents how fast the team can solve stories in the backlog in different sprints.
+This data is used only for the team and is not intended to be shared.
+To have a good representation of the velocity, it must be calculated over several sprints.
+The results become relevant with 3 completed sprints.
+
+
+### Representation of this estimate
+
+Here is a representation of the velocity.
+This graph represents the planned work and the completed work over 5 sprints.
+
+<img src="./pictures/tasks-estimation/using-estimation/velocity-chart.png" width="600" height="300"><br>
+
+
+For further information : https://www.workfront.com/project-management/methodologies/agile/velocity
 
 ## The different estimation methods - Why do we prefer Fibonacci ?
 
