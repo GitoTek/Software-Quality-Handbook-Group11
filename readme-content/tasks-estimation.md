@@ -3,6 +3,7 @@
 ## Table of content
 * [Home](/README.md)
 * [Tasks estimation in SCRUM](/readme-content/tasks-estimation.md)
+    * [The different estimation methods](#the-different-estimation-methods---why-do-we-prefer-fibonacci)
 * [Coding standards](/readme-content/coding-standards.md)
 * [Code reviews](/readme-content/code-reviews.md)
 * [The link between the tree topics](/readme-content/topics-link.md)
