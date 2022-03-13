@@ -34,7 +34,7 @@ The purpose of it is to keep the code quality as good as possible.
 3. Reviewers and Assignee
     * Feel free to assign it to the most competent person for this PR.
 
-4. erge options
+4. Merge options
     * Always delete your branch, it avoid complex git manipulations
     * Do not check “Squash commit“ unless you have done tons of useless commits
 
