@@ -3,11 +3,53 @@
 ## Table of content
 * [Home](/README.md)
 * [Tasks estimation in SCRUM](/readme-content/tasks-estimation.md)
+    * [Introduction](#introduction)
+    * [Absolute vs relative estimation](#absolute-vs-relative-estimation)
+    * [References](#references)
+    * [How to use those estimations](#how-to-use-those-estimations)
+        * [What is the velocity](#what-is-the-velocity)
+        * [Representation of this estimate](#representation-of-this-estimate)
     * [How to realize a sprint planning?](#how-to-realize-a-sprint-planning)
 * [Coding standards](/readme-content/coding-standards.md)
 * [Code reviews](/readme-content/code-reviews.md)
 * [The link between the tree topics](/readme-content/topics-link.md)
 * [Our project retrospective](/readme-content/project-retrospective.md)
+
+## Introduction
+
+Task estimation is at the very root of project planning. In an agile world how are we supposed to estimate our tasks.
+
+## Absolute vs relative estimation
+
+There are two types of estimation, the most known and unfortunately still the most used is the absolute estimation. It simply consists in estimating a task in terms of hours of development required. <br>
+<img src="./pictures/task-estimation/absolute-relative/Relative-Agile-Estimation.jpg"><br>
+As you can see from the illustration it is almost impossible to estimate a task accurately. One of the biggest issue of absolute estimation is dates have an emotional attachment to them. Relative estimation removes the emotional attachment. <br>
+<br>
+To counter this problem in agile we use relative estimation, which means giving a weight to a task without providing a precise estimate.
+<img src="./pictures/task-estimation/absolute-relative/challenge_absolute_estimates.jpg"><br>
+
+## How to use those estimations
+
+Estimations are key metrics to have data related to the team's performance in a sprint.
+And the example we will talk about is the velocity.
+
+### What is the velocity
+
+Velocity represents how fast the team can solve stories in the backlog in different sprints.
+This data is used only for the team and is not intended to be shared.
+To have a good representation of the velocity, it must be calculated over several sprints.
+The results become relevant with 3 completed sprints.
+
+
+### Representation of this estimate
+
+Here is a representation of the velocity.
+This graph represents the planned work and the completed work over 5 sprints.
+
+<img src="./pictures/tasks-estimation/using-estimation/velocity-chart.png" width="600" height="300"><br>
+
+
+For further information : https://www.workfront.com/project-management/methodologies/agile/velocity
 
 ## The different estimation methods - Why do we prefer Fibonacci ?
 
@@ -57,3 +99,7 @@ https://www.atlassian.com/agile/scrum/sprint-planning#:~:text=Instead%20of%20bui
 
 - Article by Ashish Dhawan, 20 April 2021, "Top 8 Agile Estimation Techniques"
     - https://www.netsolutions.com/insights/how-to-estimate-projects-in-agile/
+- Article by Dan Radigan, Unknown date, "Story points and estimation"
+    - https://www.atlassian.com/agile/project-management/estimation
+- Article by Daria Bagina, 21 May 2021, "Are your estimates really agile ?"
+    - https://scrummastered.com/blog/are-your-estimates-really-agile/
