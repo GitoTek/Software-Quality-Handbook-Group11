@@ -6,6 +6,8 @@
 * [Coding standards](/readme-content/coding-standards.md)
 * [Code reviews](/readme-content/code-reviews.md)
     * [Closing a pull request](#closing-a-pull-request-br)
+        * [When to close a pull request](#when-to-close-a-pull-requestbr)
+        * [How to close a pull request](#how-to-close-a-pull-requestbr)
 * [The link between the tree topics](/readme-content/topics-link.md)
 * [Our project retrospective](/readme-content/project-retrospective.md)
 
