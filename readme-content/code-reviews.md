@@ -21,7 +21,7 @@
 * [Our project retrospective](/readme-content/project-retrospective.md)
 
 <br>
-Code reviews are essential for the good development of a Softare products. In this section, we will go through the best habits to make a good code review, using <b>pull requests</b>.<br> <br>
+Code reviews are essential for the good development of a Software products. In this section, we will go through the best habits to make a good code review, using <b>pull requests</b>.<br> <br>
 
 ## Pull request
 
@@ -149,8 +149,5 @@ It is pretty simple to close a pull request. Using github for example, you just 
     - https://github.blog/2016-03-15-kindly-closing-pull-requests/
 - Article by Github, Unknown date, "Closing a pull request"
     - https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/closing-a-pull-request
-
-## References
-
 - Article by Nelis, 04 October 2017, "Why and how do we use pull request?"
     - https://co-learning.eu/2017/10/04/why-and-how-do-we-use-pull-request/
