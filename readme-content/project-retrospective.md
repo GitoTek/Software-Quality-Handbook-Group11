@@ -7,6 +7,10 @@
 * [Code reviews](/readme-content/code-reviews.md)
 * [The link between the tree topics](/readme-content/topics-link.md)
 * [Our project retrospective](/readme-content/project-retrospective.md)
+    * [Global retrospective](#global-retrospective)
+    * [Cédric retrospective](#cédric-retrospective)
+    * [Darius retrospective](#darius-retrospective)
+    * [Thibaut retrospective](#thibaut-retrospective)
 
 
 ## Global retrospective
@@ -17,7 +21,7 @@ We had a really good plan and followed it nicely. We had a nice usage of branche
 <img src="./pictures/project-retrospective/gitkraken-tree.png"><br>
 
 
-## Cedric retrospective
+## Cédric retrospective
 
 * **What was good**
     * A good distribution of tasks
