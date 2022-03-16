@@ -5,7 +5,7 @@
 * [Tasks estimation in SCRUM](/readme-content/tasks-estimation.md)
 * [Coding standards](/readme-content/coding-standards.md)
     * [Introduction](#introduction)
-    * [Repository name and Branch description](#repository-name-and-branch-description)
+    * [Repository name and branch description](#repository-name-and-branch-description)
     * [Different code norms](#different-code-norms)
         * [The goal](#the-goal)
         * [The rules](#the-rules)
@@ -17,23 +17,25 @@
     * [Coverage tests](#coverage-tests-br)
         * [The different tests](#the-different-testsbr)
         * [How to evaluate it](#how-to-evaluate-itbr)
+    * [Articles references](#references)
 * [Code reviews](/readme-content/code-reviews.md)
 * [The link between the tree topics](/readme-content/topics-link.md)
 * [Our project retrospective](/readme-content/project-retrospective.md)
 
-# Introduction
 
-There are coding standards to make it easier for members of the same organization or outsiders to understand each other's work. It is very important to always keep in mind that a good quality code is a code readable by all.
+## Introduction
 
-##  Repository name and Branch description
+There are coding standards to make it easier for members of the same organization or outsiders to understand each other's work. It is very important to always keep in mind that a good quality code is a code readable by all.<br>
+
+##  Repository name and branch description
 
 It is very common to find dozens of projects within the same organization. Each project often feeds a larger project, so the question is how to deal with all the projects.<br>
 Here is an example of one of my GIT with a multitude of projects<br>
 <img src="./pictures/coding-standards/repository-name/gitlab_repo.png"><br>
 The nomenclature we have decided upon is as follows : OrganisationName.ProjectType.ProjectName.Specificity
 
-Now that we have the repository I want to talk about branch management.<br>
-The one we will use will follow the gitflow system
+Now that we have the repository, let's talk about branch management.<br>
+The one we will use will follow the gitflow system:
 
 **Branch description**
 * main
@@ -52,7 +54,8 @@ The one we will use will follow the gitflow system
     * Branch used to develop
     * Not used in any environment
 
-This function is used in a personal way for more information go here : https://jfrog.com/whitepaper/best-practices-structuring-naming-artifactory-repositories/
+This function is used in a personal way for more information go here :<br>
+ https://jfrog.com/whitepaper/best-practices-structuring-naming-artifactory-repositories/
 
 
 ## Different code norms
@@ -146,12 +149,6 @@ In case of a too complex code, you have several options of optimisation:
 - reduce the number of decision structures
 - don't code methods from the framework you are using<br><br>
 
-## References
-
-- Article by akash1295 - GeeksforGeeks, 21 June 2021, "Cyclomatic Complexity"
-    - https://www.geeksforgeeks.org/cyclomatic-complexity/
-    - https://linearb.io/blog/reduce-cyclomatic-complexity/
-
 ## Coverage tests <br>
 
 Code coverage is one of the best metrics to assure the quality of your project.
@@ -185,3 +182,6 @@ However it not all about the coverage percentage, it is about having a team unde
 
 - Article by Sten Pittet, Unknown date, "An introduction to code coverage"
     - https://www.atlassian.com/continuous-delivery/software-testing/code-coverage
+- Article by akash1295 - GeeksforGeeks, 21 June 2021, "Cyclomatic Complexity"
+    - https://www.geeksforgeeks.org/cyclomatic-complexity/
+    - https://linearb.io/blog/reduce-cyclomatic-complexity/
