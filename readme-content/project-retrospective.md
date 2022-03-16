@@ -29,9 +29,13 @@ We had a really good plan and followed it nicely. We had a nice usage of branche
 ## Darius retrospective
 
 * **What was good**
-    * ...
+    * Excellent division of labor, very well distributed
+    * Use of professional codes for git
+
 * **What could have been better**
-    * ...
+    * Personally, pay more attention to branch names
+    * Use more images to illustrate
+
 
 ## Thibaut retrospective
 
