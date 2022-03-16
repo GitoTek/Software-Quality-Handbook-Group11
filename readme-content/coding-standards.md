@@ -8,5 +8,3 @@
 * [The link between the tree topics](/readme-content/topics-link.md)
 * [Our project retrospective](/readme-content/project-retrospective.md)
 
-
-To do...
