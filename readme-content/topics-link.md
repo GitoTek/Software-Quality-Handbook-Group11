@@ -18,7 +18,7 @@ In a project you will always have to work on these three different topics:
 * Code reviews
 
 These are basic notions in the world of tek but very often misused or misunderstood.<br>
-If you are fully aware of these three categories your work and that of your colleagues will be much easier.<br>
+If you are fully aware of these three categories your work and the one of your colleagues will be much easier.<br>
 
 Let's take an example, if you have the necessary knowledge on expected code quality with test writing, code review, code architecture and implementation you will be able to provide more concrete and viable estimates. <br>
 
